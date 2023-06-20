@@ -35,9 +35,7 @@ I am a Full Stack Developer from Waterloo, Ontario.
 
 <h2>My Stats📊</h2>
 <div>
-
-[![Lupita's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupitareyess&show_icons=true&theme=transparent&hide=stars,issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupitareyess&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div >
